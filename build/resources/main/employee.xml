@@ -1,0 +1,17 @@
+<employees>
+    <employee id="1">
+        <firstName>pranav</firstName>
+        <lastName>khurana</lastName>
+        <location>India</location>
+    </employee>
+    <employee id="2">
+        <firstName>John</firstName>
+        <lastName>Doe</lastName>
+        <location>NY</location>
+    </employee>
+    <employee id="3">
+        <firstName>Jane</firstName>
+        <lastName>Doe</lastName>
+        <location>Canada</location>
+    </employee>
+</employees>
